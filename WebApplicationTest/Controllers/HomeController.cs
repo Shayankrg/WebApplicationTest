@@ -19,7 +19,14 @@ namespace WebApplicationTest.Controllers
         {
             return View();
         }
-
+        public IActionResult Indddesx()
+        {
+            return View();
+        }
+        public IActionResult Inssdex()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
